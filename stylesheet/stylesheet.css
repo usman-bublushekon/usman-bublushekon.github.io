@@ -452,3 +452,57 @@ width: 100%;
     padding: 5px 10px 5px 10px;
 
 }
+
+@media screen and (max-width:500px){
+    
+    .Services-col{
+        width: 100%;
+        padding-top: 100px;
+        
+        
+    }
+    .team-col{
+           width: 100%; 
+         padding-top: 50px;
+        
+            
+        
+        
+    }
+    
+    
+    .cta-col{
+        
+        width: 100%; 
+         padding-top: 25px;
+            padding-bottom: 25px;
+        
+    }
+    
+    
+    .contactinfo-col1{
+        
+        
+        width: 100%;
+    }
+    
+    .contactinfo-col2{
+          width: 100%;
+        margin-right: 0px;
+        
+        
+    }
+    
+    .foter-col{
+        
+        
+        
+        width: 100%;
+        padding-top: 80px;
+        
+    }
+    
+    
+    
+    
+}
